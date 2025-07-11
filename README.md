@@ -18,10 +18,13 @@ El sistema ha sido validado mediante una maqueta funcional en un entorno domést
 
 ## Estructura del repositorio
 
-├── Codigo/ # Código fuente para ESP32 (C++), dividido en nodo maestro y esclavos, pruebas y scripts del backend
-├── Diagramas/ # Esquemas de arquitectura, montaje, etc
-├── Gastos.xlsx # Hoja de cálculo con presupuesto y materiales utilizados
-└── README.md # Archivo descriptivo del proyecto
+- Codigo/ # Código fuente para ESP32 (C++), dividido en nodo maestro y esclavos, pruebas y scripts del backend
+
+- Diagramas/ # Esquemas de arquitectura, montaje, etc
+
+- Gastos.xlsx # Hoja de cálculo con presupuesto y materiales utilizados
+
+- README.md # Archivo descriptivo del proyecto
 
 ## Tecnologías utilizadas
 

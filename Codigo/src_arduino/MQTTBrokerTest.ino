@@ -3,8 +3,8 @@
 #include <WiFi.h>
 
 // Configuración de la red WiFi
-const char* ssid = "MOVISTAR_23E3";
-const char* password = "TMEoWq5gJgiG9e2ayJqA";
+const char* ssid = "X";
+const char* password = "X";
 
 WiFiServer server(1883);  // Crear el servidor WiFi en el puerto 1883
 MqttBroker broker(server);  // Instanciar el broker usando el servidor
